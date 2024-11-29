@@ -35,7 +35,6 @@ I'm **Érik Restani**, a passionate **Systems Analyst and Developer** with exper
 
 ### **Databases**
 <p>
-  <img src="https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=database&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
