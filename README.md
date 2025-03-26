@@ -1,6 +1,6 @@
 # 👋 Hello! Welcome to My GitHub Profile
 
-I'm **Érik Restani**, a passionate **Systems Analyst and Developer** with experience in building web and mobile applications. I love solving problems, learning new technologies, and contributing to meaningful projects. 🚀
+I'm **Érik Restani**, a passionate **Systems Analyst and Developer** with experience in building mobile applications. I love solving problems, learning new technologies, and contributing to meaningful projects. 🚀
 
 ---
 
