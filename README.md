@@ -1,6 +1,6 @@
 # 👋 Hello! Welcome to My GitHub Profile
 
-I'm **Érik Restani**, a passionate **Systems Analyst and Developer** with experience in building mobile applications. I love solving problems, learning new technologies, and contributing to meaningful projects. 🚀
+I'm **Érik Restani**, I'm **Software Developer** with experience in building mobile applications. I love solving problems, learning new technologies, and contributing to meaningful projects. 🚀
 
 ---
 
@@ -8,8 +8,8 @@ I'm **Érik Restani**, a passionate **Systems Analyst and Developer** with exper
 
 - 💼 Currently improving my skills in **Full-Stack Development**.
 - 🎓 Graduate in **Systems Analysis and Development**.
-- 💡 Focused on **mobile app development**, **web development**, and **automation systems**.
-- 🌱 Learning and experimenting with **Node.js** and **data analysis**.
+- 💡 Focused on **Mobile app development with flutter**, **Backend development with NodeJs**, and **Good practices of architecture**.
+- 🌱 Learning and experimenting **data analysis**.
 - 📫 Feel free to reach out to me at: **erikeduardorestani@gmail.com**.
 
 --- 
