@@ -23,7 +23,7 @@
 > Role: Full-Stack Developer
 > Focus: Real-world problem solving
 > Mobile: Flutter Specialist
-> Backend: ADVPL | TL++ | Java | Node.js (NestJS)
+> Backend: ADVPL | TL++ | Java | Javascript(Node/Nest) | TypeScript
 > ERP: Protheus & Sankhya
 > AI: Context-driven + rule-based systems
 > Strength: Business logic & scalable solutions
