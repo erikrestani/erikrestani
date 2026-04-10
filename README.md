@@ -1,78 +1,115 @@
-# 👋 Hello! Welcome to My GitHub Profile
-
-I'm **Érik Restani**, I'm **Software Developer** with experience in building mobile applications. I love solving problems, learning new technologies, and contributing to meaningful projects. 🚀
-
----
-
-## 🌟 About Me
-
-- 💼 Currently improving my skills in **Full-Stack Development**.
-- 🎓 Graduate in **Systems Analysis and Development**.
-- 💡 Focused on **Mobile app development with flutter**, **Backend development with NodeJs**, and **Good practices of architecture**.
-- 🌱 Learning and experimenting **data analysis**.
-- 📫 Feel free to reach out to me at: **erikeduardorestani@gmail.com**.
-
---- 
-## 🔧 Technologies & Tools
-
-### **Languages**
-<p>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-</p>
-
-### **Frameworks & Libraries**
-<p>
-  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/-Flet-010101?style=flat-square&logoColor=white" alt="Flet" />  
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-</p>
-
-### **Databases**
-<p>
-  <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</p>
-
-### **Tools**
-<p>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
-  <img src="https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white" alt="Microsoft Office" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
----
-
-
-
-
-
-## 📂 My Projects
-
-### 🌟 Featured
-- [Payroll System](https://github.com/erikrestani/PimOficial): A payroll management system with multi-level access (admin, developer, employee).
-- [Personal Portfolio](https://github.com/erikrestani/ProjetoPortifolio): My personal portfolio showcasing my projects and skills.
-
-### 📜 Other Projects
-Coming Soon! 🌐
-
----
-
-## 📈 GitHub Stats
+<h1 align="center">👋 Hi, I'm Érik Restani</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erikrestani&show_icons=true&theme=radical" alt="GitHub Stats" width="400">
+  💼 Software Developer | Flutter • React • Node.js • ADVPL • TLPP <br/>
+  🚀 Focused on real-world applications, ERP integrations and scalable solutions
+</p>
+
+---
+
+## 🧠 About Me
+
+- 💼 Focused on **Full-Stack Development**
+- 📱 Strong experience with **Flutter (Mobile Development)**
+- 🌐 Backend development with **Node.js**
+- 🏢 Experience with **ERP systems (Sankhya & Protheus)**
+- 🔗 Building **integrations between mobile/web apps and ERP systems**
+- ⚙️ Automation and business rule implementation using **ADVPL / TLPP**
+- 🎓 Graduate in **Systems Analysis and Development**
+- 🌱 Always improving skills and building real-world projects
+
+📫 **Contact:** erikeduardorestani@gmail.com  
+
+---
+
+## ⚡ Tech Stack
+
+### 🚀 Languages
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ADVPL-FF6B00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TLPP-4B0082?style=for-the-badge"/>
+</p>
+
+### 🧩 Frameworks & Tools
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
+
+### 🏢 ERP & Integrations
+<p>
+  <img src="https://img.shields.io/badge/Protheus-TOTVS-FF6B00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Sankhya-ERP-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST%20API-Integration-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Webhooks-Automation-795548?style=for-the-badge"/>
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🛍️ Haka Company (Production Project)
+> Real e-commerce integrated with backend services
+
+🔗 https://www.hakacompany.com.br/
+
+- Complete online store
+- Built with **React + Node.js**
+- Real users and real transactions
+- Scalable backend structure
+
+---
+
+### 👾 Rick and Morty App
+> Technical Flutter project
+
+🔗 https://github.com/erikrestani/list_rickandmorty_app
+
+- API consumption
+- Pagination with ScrollController
+- MVVM architecture
+- Provider state management
+- Clean code
+
+---
+
+## 🔥 GitHub Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=erikrestani&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+## 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikrestani&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
 
 ## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/érik-restani-b17797240/)
-- [Email](mailto:erikeduardorestani@gmail.com)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/érik-restani-b17797240/">
+    <img src="https://img.shields.io/badge/LinkedIn-Érik%20Restani-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:erikeduardorestani@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
