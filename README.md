@@ -1,91 +1,99 @@
-<h1 align="center">👋 Hi, I'm Érik Restani</h1>
+<h1 align="center">⚡ Érik Restani ⚡</h1>
 
 <p align="center">
-  💼 Software Developer | Flutter • React • ADVPL • TL++ • Java • JavaScript <br/>
-  🤖 Focused on automation, ERP integrations and real-world solutions
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FFAA&size=28&center=true&vCenter=true&width=700&lines=SYSTEM+ONLINE;FULL+STACK+DEVELOPER;FLUTTER+%7C+REACT+%7C+BACKEND;ERP+INTEGRATION+SPECIALIST;BUILDING+REAL+WORLD+SYSTEMS"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="450"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FFAA&size=18&center=true&vCenter=true&width=600&lines=>+status:+ONLINE+🟢;>+building+real+world+solutions;>+ERP+integration+in+production;>+mode:+scaling"/>
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧠 SYSTEM INFO
 
-- 💼 Full-Stack Developer focused on **real-world problem solving**  
-- 📱 Specialized in **Flutter (Mobile Development)**  
-- 🌐 Backend experience with **ADVPL,TL++, Java and JavaScript (Node.js, NestJS)**
-- 🏢 Working with **ERP systems (Protheus & Sankhya)**  
-- 🤖 Using AI with **rules, context and business understanding**  
-- ⚙️ Strong experience with **business logic**  
-- 🎓 Graduate in **Systems Analysis and Development**
-
-📫 **Contact:** erikeduardorestani@gmail.com  
+<pre>
+> Role: Full-Stack Developer
+> Focus: Real-world problem solving
+> Mobile: Flutter Specialist
+> Backend: ADVPL | TL++ | Java | Node.js (NestJS)
+> ERP: Protheus & Sankhya
+> AI: Context-driven + rule-based systems
+> Strength: Business logic & scalable solutions
+</pre>
 
 ---
 
-## ⚡ Tech Stack
+## 🟢 ACTIVITY STREAM
 
-### 🚀 Languages
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=erikrestani&theme=tokyo-night&hide_border=true&area=true"/>
+</p>
+
+---
+
+## ⚡ TECH MATRIX
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,dart,java,flutter,react,nodejs,docker"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/ADVPL-FF6B00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/TL++-4B0082?style=for-the-badge"/>
-</p>
-
-### 🧩 Frameworks & Tools
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 ---
 
-## 🧩 What I Do
+## 🧩 CORE FUNCTIONS
 
-- 🔗 Integrate applications with ERP systems (**Protheus & Sankhya**)  
-- ⚙️ Implement complex **business rules and workflows**  
-- 🤖 Apply AI with structured **rules and context** in real scenarios  
-- 📦 Build and connect **APIs, databases and legacy systems**  
-- 🧠 Turn business needs into **scalable and maintainable solutions**  
-
-<p>
-  <img src="https://img.shields.io/badge/ERP-Protheus%20%26%20Sankhya-FF6B00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI-Rules%20%26%20Context-000000?style=for-the-badge"/>
-</p>
+- 🔗 ERP integrations (**Protheus & Sankhya**)  
+- ⚙️ Complex business rules & workflows  
+- 🤖 AI with structured logic and context  
+- 📦 APIs, databases & legacy systems  
+- 🧠 Scalable and maintainable architectures  
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 PROJECTS
 
-### 🛍️ Haka Company (Production Project)
-> Real e-commerce in production
+### 🛍️ Haka Company
+> Production e-commerce
 
 🔗 https://www.hakacompany.com.br/
 
-- Complete online store  
-- Built with **React + Node.js**  
-- Real users and real transactions  
-- Focused on performance and scalability  
+- React + Node.js  
+- Real users / real transactions  
+- Performance & scalability  
 
 ---
 
 ### 👾 Rick and Morty App
-> Technical Flutter project
+> Flutter technical project
 
 🔗 https://github.com/erikrestani/list_rickandmorty_app
 
 - API consumption  
 - Pagination  
-- MVVM architecture  
-- Clean code  
+- MVVM  
+- Clean architecture  
 
 ---
 
-## 🌐 Connect
+## 🐍 SYSTEM ACTIVITY
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/erikrestani/erikrestani/output/snake-dark.svg" />
+</p>
+
+---
+
+## 🌐 CONNECT
 
 <p align="center">
   <a href="https://www.linkedin.com/in/érik-restani-b17797240/">LinkedIn</a> •
