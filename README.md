@@ -65,6 +65,18 @@
 
 ## 🚀 PROJECTS
 
+### 🌐 Personal Portfolio
+> Minimalist web portfolio — your digital identity
+
+🔗 https://projeto-portifolio-lake.vercel.app/
+
+- HTML + CSS + JavaScript  
+- Clean and objective design  
+- Built to represent skills and projects  
+- Lightweight and fast  
+
+---
+
 ### 🛍️ Haka Company
 > Production e-commerce
 
