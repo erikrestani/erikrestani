@@ -11,10 +11,10 @@
 
 - 💼 Full-Stack Developer focused on **real-world problem solving**  
 - 📱 Specialized in **Flutter (Mobile Development)**  
-- 🌐 Backend experience with **Node.js**  
+- 🌐 Backend experience with **ADVPL,TL++, Java and JavaScript (Node.js, NestJS)**
 - 🏢 Working with **ERP systems (Protheus & Sankhya)**  
 - 🤖 Using AI with **rules, context and business understanding**  
-- ⚙️ Strong experience with **business logic (ADVPL / TLPP / DBAccess)**  
+- ⚙️ Strong experience with **business logic**  
 - 🎓 Graduate in **Systems Analysis and Development**
 
 📫 **Contact:** erikeduardorestani@gmail.com  
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-Basic-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/ADVPL-FF6B00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/TL++-4B0082?style=for-the-badge"/>
 </p>
