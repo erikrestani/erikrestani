@@ -25,7 +25,7 @@
 > Mobile: Flutter Specialist
 > Backend: ADVPL | TL++ | Java | Javascript(Node/Nest) | TypeScript
 > ERP: Protheus & Sankhya
-> AI: Context-driven + rule-based systems
+> Creation of AI Agents leveraging Context-Aware Intelligence and Rule-Based Decision Architectures
 > Strength: Business logic & scalable solutions
 </pre>
 
